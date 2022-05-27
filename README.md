@@ -1,5 +1,5 @@
-# cp_help
-'''cpp  
+# cp_help  
+'''
 #include<bits/stdc++.h>  
 using namespace std ;  
 
@@ -21,6 +21,6 @@ int main(){
         // code here  
 
     }  
-    return 0 ;  
+    return 0;  
 }  
 '''

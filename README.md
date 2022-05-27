@@ -1,5 +1,5 @@
 # cp_help
-'''c++
+'''cpp  
 #include<bits/stdc++.h>  
 using namespace std ;  
 
@@ -11,19 +11,16 @@ using namespace std ;
 #define mp make_pair  
 #define pb push_back  
 
-int main(){  
-    ios_base::sync_with_stdio(NULL) ;  
-    cin.tie(0) ;
-    cout.tie(0) ;
-    int t;
-    cin >> t;
-    while(t--){
-        // code here
+int main(){    
+    ios_base::sync_with_stdio(NULL) ;    
+    cin.tie(0) ;  
+    cout.tie(0) ;  
+    int t;  
+    cin >> t;  
+    while(t--){  
+        // code here  
 
-
-
-    }
-    
-    return 0 ;
-}
+    }  
+    return 0 ;  
+}  
 '''
